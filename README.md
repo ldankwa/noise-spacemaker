@@ -1,1 +1,3 @@
-The goal of this projet # is to 
+# noise-spacemaker
+
+The goal of this project is create a noise surrogate model that predict the fraction yellow zone based.   on different building and noise configurations.
